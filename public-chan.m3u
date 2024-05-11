@@ -1,38 +1,35 @@
-#EXTM3U
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://cdn.hklive.tv/xxxx/78/index.m3u8
-#EXTINF:-1 tvg-id="J2.hk" tvg-logo="https://i.imgur.com/lvxtaoM.png" group-title="Undefined",J2
-https://pull-f5-spe.ixigua.com/yeslivetv.com/6027316-581799927/index.m3u8
-#EXTINF:-1 tvg-id="TVBFinanceSportsInformationChannel.hk" tvg-logo="https://i.imgur.com/Fkkp7x7.png" group-title="Business" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",TVB Finance and Sport Channel (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://cdn.hklive.tv/xxxx/85/index.m3u8
-#EXTINF:-1 tvg-id="Jade.hk" tvg-logo="https://i.imgur.com/nhsx7sa.png" group-title="Entertainment",TVB Jade
-https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="TVBNewsChannel.hk" tvg-logo="https://i.imgur.com/Gwij0Fj.png" group-title="News" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",TVB News Channel (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://cdn.hklive.tv/xxxx/83/index.m3u8
-#EXTINF:-1 tvg-id="Pearl.hk" tvg-logo="https://i.imgur.com/UPdcMkW.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",TVB Pearl (珍珠台) (1080p) [Geo-blocked]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://cdn.hklive.tv/xxxx/84/index.m3u8
-#EXTINF:-1 tvg-id="tvNAsia.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png" group-title="Entertainment",tvN (台湾版) (1080p) [Geo-blocked]
-https://z88.ubtvfans.com/live/rx3/2288/6e627b4e8a65eec3773d6f8a33c9648d/index.m3u8
-#EXTINF:-1 tvg-id="ViuTV.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/512px-ViuTV_logo.svg.png" group-title="Undefined",ViuTV
-https://pull-f5-spe.ixigua.com/yeslivetv.com/711923214-581799927/index.m3u8
-#EXTINF:-1 tvg-id="ViuTVsix.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/512px-ViuTVsix-logo.svg.png" group-title="Undefined",ViuTV Six
-https://pull-f5-spe.ixigua.com/yeslivetv.com/154548299-581799927/index.m3u8
-#EXTINF:-1 tvg-id="BSTV.hk" tvg-logo="https://i.imgur.com/GVYSSgm.png" group-title="Shop",耀才財經台 (576p)
-http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTV4America.cn" tvg-logo="https://i.imgur.com/gBbLyqh.png" group-title="General",CCTV-4 America (1080p)
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-#EXTINF:-1 tvg-id="CBLTDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9e/CBLT-DT_Logo.jpg" group-title="Undefined",CBC Toronto (CBLT-DT) [Geo-blocked]
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="CBLTDT.ca" tvg-name="CBC Toronto (CBLT-DT) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9e/CBLT-DT_Logo.jpg" group-title="Undefined",CBC Toronto (CBLT-DT) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
-#EXTINF:-1 tvg-id="CBCNewsNetwork.ca" tvg-logo="https://i.imgur.com/SjTdhvJ.png" group-title="News",CBC News (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CityNews (720p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CityNews (720p)" tvg-logo="" group-title="Undefined",CityNews (720p)
 https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
-#EXTINF:-1 tvg-id="CityNewsToronto.ca" tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png" group-title="News",CityNews Toronto (720p)
+#EXTINF:-1 tvg-id="CBCNewsNetwork.ca" tvg-name="CBC News (720p)" tvg-logo="https://i.imgur.com/SjTdhvJ.png" group-title="News",CBC News (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="CityNewsToronto.ca" tvg-name="CityNews Toronto (720p)" tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png" group-title="News",CityNews Toronto (720p)
 https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
-#EXTINF:-1 tvg-id="CTVNewsChannel.ca" tvg-logo="https://i.imgur.com/pRscvrp.png" group-title="News",CTV (720p)
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN USA (720p) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png" group-title="News",CNN USA (720p) [Geo-blocked]
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="CTVNewsChannel.ca" tvg-name="CTV (720p)" tvg-logo="https://i.imgur.com/pRscvrp.png" group-title="News",CTV (720p)
 https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
-#EXTINF:-1 tvg-id="TotallyTurtles.us" tvg-logo="https://i.imgur.com/1gIpagY.png" group-title="Kids",Pluto TV Totally Turtles (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d6792bd6be2998ad0ccce30/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5d6792bd6be2998ad0ccce30&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=ca4dc680-0715-11eb-aeab-0242ac110002&terminate=false&userId=
+#EXTINF:-1 tvg-id="J2.hk" tvg-name="J2" tvg-logo="https://i.imgur.com/lvxtaoM.png" group-title="Undefined",J2
+https://pull-f5-spe.ixigua.com/yeslivetv.com/6027316-581799927/index.m3u8
+#EXTINF:-1 tvg-id="RTHKTV31.hk" tvg-name="RTHK (港台電視31) (1080p)" tvg-logo="https://i.imgur.com/kf818kM.png" group-title="Undefined",RTHK (港台電視31) (1080p)
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+#EXTINF:-1 tvg-id="RTHKTV32.hk" tvg-name="RTHK (港台電視32) (1080p)" tvg-logo="https://i.imgur.com/MXLuUoU.png" group-title="Undefined",RTHK (港台電視32) (1080p)
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+#EXTINF:-1 tvg-id="RTHKTV33.hk" tvg-name="RTHK TV 33 (港台電視33) (720p)" tvg-logo="https://i.imgur.com/2MProun.png" group-title="Undefined",RTHK TV 33 (港台電視33) (720p)
+https://live.astradamy.com/hk33/index.m3u8
+#EXTINF:-1 tvg-id="ViuTV.hk" tvg-name="ViuTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/512px-ViuTV_logo.svg.png" group-title="Undefined",ViuTV
+https://pull-f5-spe.ixigua.com/yeslivetv.com/711923214-581799927/index.m3u8
+#EXTINF:-1 tvg-id="ViuTVsix.hk" tvg-name="ViuTV Six" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/512px-ViuTVsix-logo.svg.png" group-title="Undefined",ViuTV Six
+https://pull-f5-spe.ixigua.com/yeslivetv.com/154548299-581799927/index.m3u8
+#EXTINF:-1 tvg-id="Pearl.hk" tvg-name="TVB Pearl (珍珠台) (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/UPdcMkW.png" group-title="General",TVB Pearl (珍珠台) (1080p) [Geo-blocked]
+https://cdn.hklive.tv/xxxx/84/index.m3u8
+#EXTINF:-1 tvg-id="TVBNewsChannel.hk" tvg-name="TVB News Channel (720p)" tvg-logo="https://i.imgur.com/Gwij0Fj.png" group-title="News",TVB News Channel (720p)
+https://cdn.hklive.tv/xxxx/83/index.m3u8
+#EXTINF:-1 tvg-id="TVBFinanceSportsInformationChannel.hk" tvg-name="TVB Finance and Sport Channel (720p)" tvg-logo="https://i.imgur.com/Fkkp7x7.png" group-title="Business",TVB Finance and Sport Channel (720p)
+https://cdn.hklive.tv/xxxx/85/index.m3u8
+#EXTINF:-1 tvg-id="Jade.hk" tvg-name="TVB Jade" tvg-logo="https://i.imgur.com/nhsx7sa.png" group-title="Entertainment",TVB Jade
+https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="tvNAsia.hk" tvg-name="tvN (台湾版) (1080p) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png" group-title="Entertainment",tvN (台湾版) (1080p) [Geo-blocked]
+https://z88.ubtvfans.com/live/rx3/2288/6e627b4e8a65eec3773d6f8a33c9648d/index.m3u8
